@@ -27,15 +27,15 @@ The name part can be anything you want. We often use the name of the command lin
 
 ## Project Structure
 
-Each active project has its own folder under the currently_active folder.  Each project folder must contain a summary and charger file i.e.' </br>
-[2026-q1-fab-summary.md](currently_active/2026-q1-fab/2026-q1-fab-summary.md) </br>
-[2026-q1-fab-charter.md](currently_active/2026-q1-fab/2026-q1-fab-charter.md) </br>
+Each active project has its own folder under the currently_active folder.  Each project folder must contain a summary and charger file i.e.' <br/>
+[2026-q1-fab-summary.md](currently_active/2026-q1-fab/2026-q1-fab-summary.md) <br/>
+[2026-q1-fab-charter.md](currently_active/2026-q1-fab/2026-q1-fab-charter.md) <br/>
 
 ## Plans
 
 Before starting a project, you should create a plan.  Plans are written in Markdown and stored in the project folder.
 
-[2026-q1-fab-plan.md](currently_active/2026-q1-fab/2026-q1-fab-plan.md) </br>
+[2026-q1-fab-plan.md](currently_active/2026-q1-fab/2026-q1-fab-plan.md) <br/>
 
 ## Markdown Kanban Boards
 
