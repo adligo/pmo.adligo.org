@@ -45,6 +45,11 @@ All tasks go into Markdown files in the project folder under the todo, in-progre
 
 - [The Charter Template](templates/CHARTER_TEMPLATE.md)
 
+- [The Project Plan Template](templates/AdligoProjectPlanTemplate.ods)
+
+<b>Note: </b> The project plan template is an Open Office spreadsheet that can be exported (saved) to a html file;
+i.e. [https://adligo.github.io/pmo.adligo.org/templates/AdligoProjectPlanTemplate.html](https://adligo.github.io/pmo.adligo.org/templates/AdligoProjectPlanTemplate.html)
+
 ## Forks and Pull Requests
 
 Progress-tracking is performed via GitHub forking and pull requests of this repository.
