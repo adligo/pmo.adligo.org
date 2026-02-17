@@ -10,6 +10,13 @@ Version: v1.0 </div>
 
 ### Executive Summary:
 
+A example Executive Summary, the source for this page is here;
+
+- [https://github.com/adligo/pmo.adligo.org/blob/main/templates/CHARTER_TEMPLATE.md](https://github.com/adligo/pmo.adligo.org/blob/main/templates/CHARTER_TEMPLATE.md)
+
+The rendered version lives here;
+
+- [https://adligo.github.io/pmo.adligo.org/templates/CHARTER_TEMPLATE](https://adligo.github.io/pmo.adligo.org/templates/CHARTER_TEMPLATE)
 
 <h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Project Goals / OKRs (Objectives Key Results)</h4>
 <b>SMART: S</b>pecific, <b>M</b>easurable, <b>A</b>ttainable, <b>R</b>elevant, and <b>T</b>ime-bound
@@ -26,29 +33,29 @@ Why are we doing this?
 
 <h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Benefits, Costs, and Budget </h4>
 
-#####Benefits:
+##### Benefits:
 
 Support new service leading to 5% revenue increase, reduce late shipments and related costs, increase customer satisfaction
 Additional benefits (optional):
 
-#####Costs:
+##### Costs:
 
 Price of software, installation fees, time spent on hiring and training 
 Additional cost areas (optional):
 
-#####Budget needed:
+##### Budget needed:
 
 $75,000
 
 
 <h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Scope and Exclusion </h4>
 
-#####In-Scope:
+##### In-Scope:
 
 Customer service standards, delivery processes, training protocols
 Other in-scope items (optional):
 
-#####Out-of-Scope: 
+##### Out-of-Scope: 
 
 Product development, vendor contracts
 Other out-of-scope items (optional):
@@ -64,7 +71,7 @@ Other out-of-scope items (optional):
 <b>Additional Stakeholders:</b> VP of Customer Success, Account Manager, Receptionist, Sales Director, Sales Team, Marketing Director, Investors <br/><br/>
 
 
-####<div style="background-color: purple; width: 100%; color: white; padding: 10px" >Measuring Success / KPIs (Key Performance Indicators) </div>
+<h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Measuring Success / KPIs (Key Performance Indicators) </h4>
 
 <b>What is acceptable:</b><br/>
 1. <br/>

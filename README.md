@@ -41,6 +41,10 @@ Before starting a project, you should create a plan.  Plans are written in Markd
 
 All tasks go into Markdown files in the project folder under the todo, in-progress, and done folders.  Each task should include the creators discord id.  Once tasks are being worked-on they should be moved to the in-progress folder, and the discord id of the people working on the task should be added to the task file.  Once the task is complete, it should be moved to the done folder.
 
+## Templates
+
+- [The Charter Template](templates/CHARTER_TEMPLATE)
+
 ## Forks and Pull Requests
 
 Progress-tracking is performed via GitHub forking and pull requests of this repository.
