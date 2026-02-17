@@ -1,5 +1,5 @@
-# <div align="center"> Project Moonshot </div>
-### <div align="center"> Operations & Training Plan </div>
+<h1 align="center"><strong> Project Moonshot </strong></h1>
+<h3 align="center"> Operations & Training Plan </h3>
 <div align="center">
 Owner: Scott Morgan <br/>
 Created: 2024 February 15th <br/>
@@ -11,20 +11,20 @@ Version: v1.0 </div>
 ### Executive Summary:
 
 
-####<div style="background-color: purple; width: 100%; color: white; padding: 10px" >Project Goals / OKRs (Objectives Key Results)</div>
+<h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Project Goals / OKRs (Objectives Key Results)</h4>
 <b>SMART: S</b>pecific, <b>M</b>easurable, <b>A</b>ttainable, <b>R</b>elevant, and <b>T</b>ime-bound
 
 -
 
-####<div style="background-color: purple; width: 100%; color: white; padding: 10px" >Deliverables </div>
+<h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Deliverables </h4>
 
 
-####<div style="background-color: purple; width: 100%; color: white; padding: 10px" >Business Case / Background </div>
+<h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Business Case / Background </h4>
 
 Why are we doing this?
 
 
-####<div style="background-color: purple; width: 100%; color: white; padding: 10px" >Benefits, Costs, and Budget </div>
+<h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Benefits, Costs, and Budget </h4>
 
 #####Benefits:
 
@@ -32,14 +32,16 @@ Support new service leading to 5% revenue increase, reduce late shipments and re
 Additional benefits (optional):
 
 #####Costs:
+
 Price of software, installation fees, time spent on hiring and training 
 Additional cost areas (optional):
 
 #####Budget needed:
+
 $75,000
 
 
-####<div style="background-color: purple; width: 100%; color: white; padding: 10px" >Scope and Exclusion </div>
+<h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Scope and Exclusion </h4>
 
 #####In-Scope:
 
@@ -51,7 +53,7 @@ Other in-scope items (optional):
 Product development, vendor contracts
 Other out-of-scope items (optional):
 
-####<div style="background-color: purple; width: 100%; color: white; padding: 10px" >Project Team </div>
+<h4 style="background-color: purple; width: 100%; color: white; padding: 10px" >Project Team </h4>
 
 <b>Project Sponsor:</b> Director of Operations <br/><br/>
 
