@@ -46,9 +46,15 @@ All tasks go into Markdown files in the project folder under the todo, in-progre
 - [The Charter Template](templates/CHARTER_TEMPLATE.md)
 
 - [The Project Plan Template](templates/AdligoProjectPlanTemplate.ods)
+- [The Project Plan Template with dates collapsed](AdligoProjectPlanTemplateNarrow.ots)
 
 <b>Note: </b> The project plan template is an Open Office spreadsheet that can be exported (saved) to a html file;
+
 i.e. [https://adligo.github.io/pmo.adligo.org/templates/AdligoProjectPlanTemplate.html](https://adligo.github.io/pmo.adligo.org/templates/AdligoProjectPlanTemplate.html)
+[https://adligo.github.io/pmo.adligo.org/templates/AdligoProjectPlanTemplateNoEstimatedDates.html](https://adligo.github.io/pmo.adligo.org/templates/AdligoProjectPlanTemplateNoEstimatedDates.html)
+
+We have made some small improvements to the Google Project Management Project Plan template by adding expanding and contracting groups in open office.  This allows us to use the same template for projects without dates (i.e. most of Adligo.org) and projects with dates (i.e. most companies).
+
 
 ## Forks and Pull Requests
 
