@@ -43,7 +43,7 @@ All tasks go into Markdown files in the project folder under the todo, in-progre
 
 ## Templates
 
-- [The Charter Template](templates/CHARTER_TEMPLATE)
+- [The Charter Template](templates/CHARTER_TEMPLATE.md)
 
 ## Forks and Pull Requests
 
