@@ -1,11 +1,11 @@
-# <center> Project Moonshot </center>
-### <center> Operations & Training Plan </center>
-<center> 
+# <div align="center"> Project Moonshot </div>
+### <div align="center"> Operations & Training Plan </div>
+<div align="center">
 Owner: Scott Morgan <br/>
 Created: 2024 February 15th <br/>
 Last Update: 2024 February 15th <br/>
 Document Status: Approved   (Draft | In Review | Approved) <br/>
-Version: v1.0 </center>
+Version: v1.0 </div>
 
 
 ### Executive Summary:
