@@ -46,7 +46,7 @@ All tasks go into Markdown files in the project folder under the todo, in-progre
 - [The Charter Template](templates/CHARTER_TEMPLATE.md)
 
 - [The Project Plan Template](templates/AdligoProjectPlanTemplate.ods)
-- [The Project Plan Template with dates collapsed](AdligoProjectPlanTemplateNarrow.ots)
+- [The Project Plan Template with dates collapsed](templates/AdligoProjectPlanTemplateNarrow.ots)
 
 <b>Note: </b> The project plan template is an Open Office spreadsheet that can be exported (saved) to a html file;
 
