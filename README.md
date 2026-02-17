@@ -6,7 +6,7 @@ This is the new home of the Adligo.org Project Management Office.  It is based o
 
 - [https://www.coursera.org/professional-certificates/google-project-management](https://www.coursera.org/professional-certificates/google-project-management)
 
-The main alteration we have made is to use Markdown and GitHub for everything (Charters, Plans, Kanban Boards, etc).  In addition, we like to keep the projects as small as possible and target one quarter (three months) for our maximum project size.
+The main alteration we have made is to use HTML, Markdown, Open Office and GitHub for everything (Charters, Plans, Kanban Boards, etc).  In addition, we like to keep the projects as small as possible and target one quarter (three months) for our maximum project size.
 
 ## Contributing
 
